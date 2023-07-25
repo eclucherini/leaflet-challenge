@@ -3,6 +3,8 @@
 # Deployment
 Link to dashboard: https://eclucherini.github.io/leaflet-challenge/
 
+![image](https://github.com/eclucherini/leaflet-challenge/blob/aeed8b89b8eb6972f5a336a27a719b8e0be72d72/Map.png)
+
 # Requirements
 Map (60 points)
 - TileLayer loads without error (20 points)
